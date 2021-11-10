@@ -4,15 +4,15 @@
 
 🖥Primeiros passos no Python
 
-## Versionamento/Versioning\
+## Versionamento / Versioning
 
 Esse projeto não possui um sistema de versionamento.
 
-## Contribuir/Contributing
+## Contribuir / Contributing
 
-Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/Web-App-de-Previsao-do-Tempo/blob/master/Contributing.md)
+Deseja contribuir com o projeto? [Passo a passo para contribuir](https://github.com/silasfmartins/simulador-de-dado/blob/master/Contributing.md)
 
-## Histórico/History
+## Histórico / History
 
 Consulte [Releases](https://github.com/silasfmartins/simulador-de-dado/releases) para ter um changelog completo.
 
