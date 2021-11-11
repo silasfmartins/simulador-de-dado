@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/github/license/silasfmartins/simulador-de-dado)
 
-🖥Primeiros passos no Python
+🖥 Primeiros passos no Python
 
 ## Versionamento / Versioning
 
