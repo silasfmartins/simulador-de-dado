@@ -6,7 +6,8 @@
 
 Fiz esse projeto para começar a trabalhar com Python.
 
-Essa aplicação só funciona via terminal, executando no Pycharm ou no VsCode ele funcionará.
+## Como funciona a aplicação
+Essa aplicação só funciona via terminal, executando nos editores de códigos Pycharm ou no VsCode ele funcionará. Para isso você pode baixar o código e testar.
 
 ## Versionamento / Versioning
 
