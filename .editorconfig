@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 root = true
 
 [*]
@@ -6,4 +7,14 @@ indent_size = 2
 end_of_line = crlf
 charset = utf-8
 trim_trailing_whitespace = true
+=======
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = crlf
+charset = utf-8
+trim_trailing_whitespace = true
+>>>>>>> 69962feee48f931ffa1e2fc2845ad1765e404b4b
 insert_final_newline = false
