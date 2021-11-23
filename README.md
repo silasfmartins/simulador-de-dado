@@ -2,7 +2,11 @@
 
 ![license](https://img.shields.io/github/license/silasfmartins/simulador-de-dado)
 
-🖥Primeiros passos no Python
+🖥Primeiros passos no Python. Essa aplicação simula o funcionamento de um dado.
+
+Fiz esse projeto para começar a trabalhar com Python.
+
+Essa aplicação só funciona via terminal, executando no Pycharm ou no VsCode ele funcionará.
 
 ## Versionamento / Versioning
 
