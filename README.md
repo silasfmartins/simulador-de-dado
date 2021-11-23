@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Simulador de Dado
 
 ![license](https://img.shields.io/github/license/silasfmartins/simulador-de-dado)
