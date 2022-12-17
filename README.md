@@ -26,4 +26,4 @@ Consulte [Releases](https://github.com/silasfmartins/simulador-de-dado/releases)
 
 ## 📄 Licença do Projeto/License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/simulador-de-dado/blob/main/LICENSE) © Silas Martins para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/silasfmartins/simulador-de-dado/blob/master/LICENSE) © Silas Martins para mais detalhes.
